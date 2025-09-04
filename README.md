@@ -1,6 +1,6 @@
 # 🧮 Sorting System in C++
 
-Welcome to **Deadline Fighters' Sorting System** 🎉  
+Welcome to **Sorting System** 🎉  
 This project implements multiple sorting algorithms in C++ with a menu-driven interface and performance measurement.  
 It also includes a custom **`my_vector`** class (similar to `std::vector`) for dynamic array handling.
 
