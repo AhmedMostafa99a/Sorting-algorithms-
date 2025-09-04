@@ -809,6 +809,6 @@ void mainMenu()
 }
 int main()
 {
-    cout << "Welcome to Deadline Fighters' Sorting System!\n";
+    cout << "Welcome to Sorting System!\n";
     mainMenu();
 }
